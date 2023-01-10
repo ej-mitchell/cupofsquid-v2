@@ -1,0 +1,3 @@
+[submodule "themes/bb"]
+	path = themes/bb
+	url = git@github.com:ej-mitchell/bb.git
