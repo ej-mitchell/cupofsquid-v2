@@ -1,18 +1,14 @@
 +++
-categories = ["personal"]
 date = 2020-03-04T02:20:47Z
 description = ""
 draft = false
 slug = "about"
-tags = ["personal"]
 title = "About me"
 
 +++
 
 
 Hello! 👋  My name is Eiven. I also go by "EJ". I'm nonbinary and use they/he pronouns.
-
-{{< figure src="__GHOST_URL__/content/images/2021/03/06061E49-191B-4988-A53D-28671504FD23.jpeg" >}}
 
 I work as a freelancer, doing pretty much whatever is thrown at me, including writing, art, and software development.
 
