@@ -2,7 +2,7 @@
 date = 2020-07-03T22:12:40Z
 description = ""
 draft = false
-slug = "on"
+slug = "on-white-rage"
 title = "On White Fragility..."
 
 +++
@@ -28,5 +28,5 @@ The people who are hurting in my fictitious scenario here are the women. In orde
 
 Going back to reality, that’s why I picked up the book  _[White Rage](https://www.professorcarolanderson.org/white-rage) _ over _White Fragility_. As a Black author, Carol Anderson is able to bring a different, more relevant perspective onto the same concept that needs to be understood. As a white person, I would much rather hear about the ills of white supremacy from a person of color than from somebody else who shares my background.
 
-I picked up the book this week and am looking forward to sharing my thoughts here soon. For now, though, if you have read this post, please consider choosing something other than White Fragility as your first foray into antiracism. If you need ideas, you can see my fledgling list [here](__GHOST_URL__/blm-and-towards-antiracism/).
+I picked up the book this week and am looking forward to sharing my thoughts here soon. For now, though, if you have read this post, please consider choosing something other than White Fragility as your first foray into antiracism. If you need ideas, you can see my fledgling list [here](/post/blm-and-towards-antiracism/).
 

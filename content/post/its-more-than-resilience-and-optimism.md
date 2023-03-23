@@ -24,9 +24,9 @@ You know, as you helpfully mentioned, there is a pandemic going on.
 
 I'm sure the professionals of the world, especially the young ones who already have been structurally shut out of any kind of chance at a flourishing life in this capitalist dumpster fire, would love to hear your thoughts about "building self-efficacy" while their previously healthy friends are in the ICU.
 
-Or you know, in mental hospitals to get treated for this burnout. But you know... maybe they just need to "bolster" their "internal locus of control" (bless you; by the way, might wanna get tested for COVID).
+Or, more accurately, in mental hospitals to get treated for this burnout. But you know... maybe they just need to "bolster" their "internal locus of control" (bless you; by the way, might wanna get tested for COVID).
 
-Also, bud, we are kind of sick of this "resilience" bullshit. We've survived our fair share of economic disasters - [some of us](__GHOST_URL__/a-millenial-comedy/) before we even made to to college.
+Also, bud, we are kind of sick of this "resilience" bullshit. We've survived our fair share of economic disasters - [some of us](/post/a-millenial-comedy/) before we even made to to college.
 
 But wait. I have an idea - you know what would make employees more resilient?
 

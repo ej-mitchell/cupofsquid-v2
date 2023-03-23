@@ -38,3 +38,7 @@ theme = 'bb'
         url = "https://merveilles.town/@eejum"
         weight = 2 
 
+  [[menu.footer]]
+        name = "Buy me a coffee"
+        url = "https://ko-fi.com/B0B86RY0J"
+        weight = 3
