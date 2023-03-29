@@ -1,6 +1,3 @@
 [submodule "themes/bb"]
 	path = themes/bb
-	url = git@github.com:ej-mitchell/bb.git
-[submodule "bb"]
-	path = bb
 	url = https://github.com/ej-mitchell/bb
