@@ -28,9 +28,9 @@ Below is a list of how I've managed this balance so far.
 
 ### Desktop/Development
 
-* **[Notion](https://www.notion.so) -** using this for recipes, tracking what I've read, and kanboards for large personal projects.
+* **[Notion](https://www.notion.so) -** using this for recipes, tracking what I've read, and kanboards for large personal projects. _Currently searching for a less beefy alternative._
 * **Terminal** - I used to use "alternative" terminal interfaces, but someone gave me [a hot tip](http://danluu.com/term-latency/). The system terminal on Pop!_OS is great paired with tmux.
-* **Thunderbird** - open source email clients for my laptop.
+* **Thunderbird** - open-source email clients for my laptop.
 * **neoVim**/**VSCodium** - I use neoVim for most things (see dotfiles link below), but VSCodium has also been pretty solid when needed. Admittedly I have the Vim plugin for that, though. I'm so slow with a mouse. 🙃
 * **[Vivaldi](https://vivaldi.com)** - browser replacement for Chrome. It's Chromium based, though, with great privacy additions. I use this for testing applications.
 * **[Mozilla Firefox Developer Edition](https://www.mozilla.org/kab/firefox/developer/) ** - I also use this for testing applications, when needed. This is my preferred browser, but sometimes it gets slow.
@@ -48,7 +48,7 @@ Below is a list of how I've managed this balance so far.
 
 Other art stuff I use I don't necessarily condone yet. I am still testing alcohol markers, gouache, and acrylics. I usually just buy whatever sketch books are on sale. To outline things for the pens/fineliners, I use a mechanical pencil of whatever kind I can find.
 
-Want art? Check out my [my art page](__GHOST_URL__/art) for more details. I also have a [RedBubble](https://www.redbubble.com/people/eejum/explore?page=1&sortOrder=recent)! I also take commissions: [art@cupofsquid.com](mailto:art@cupofsquid.com)
+Want art? Check out my [my art page](/page/art) for more details. I also take commissions: [art@cupofsquid.com](mailto:art@cupofsquid.com)
 
 ---
 

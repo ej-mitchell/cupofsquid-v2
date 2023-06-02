@@ -8,9 +8,7 @@ title = "Art"
 +++
 
 
-Lately, as of 2022, I've been commissioned for a wide variety of things, including designs for musicians and avatars for social media profiles.
-
-If you want to order some ready-made merchandise, I do have some art up on [RedBubble](http://eejum.redbubble.com/).
+As of 2023, I've been commissioned for a wide variety of things, including designs for musicians and avatars for social media profiles.
 
 If your interest is piqued and you have an idea, you can [commission me](mailto:art@cupofsquid.com). More up-to-date art is on [my Instagram](https://www.instagram.com/gay.little.gremlin/).
 
