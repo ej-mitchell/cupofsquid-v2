@@ -1,4 +1,4 @@
-baseURL = 'https://cupofsquid.netlify.app'
+baseURL = 'https://cupofsquid.com'
 languageCode = 'en-us'
 title = 'Cup of Squid'
 theme = 'bb'
