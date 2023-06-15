@@ -4,7 +4,7 @@ date: 2023-06-15T10:42:28-04:00
 draft: false
 ---
 
-I promised myself that this week would be an art week. My goal was to do a
+I promised myself that this week would be an art week. My goal was to do
 weekly themes for my hobbies to prevent myself from chaotically starting and not
 finishing different projects.
 
@@ -75,7 +75,8 @@ the cracks, then so be it.
 
 But I seriously hope you consider extending your hand and pulling them out of
 the darkness. It threatens to swallow all of us in the coming years. Prominent
-research groups are calling the attitude towards transgender folks a genocide.
+research groups are calling the attitude towards transgender folks a
+genocide. [a]
 
 You have a chance to help prevent that from happening.
 
@@ -84,3 +85,8 @@ Thank you for listening.
 ```
 
 Please stay safe out there. Protect trans kids.
+
+#### footnotes
+[a]: I linked this directly but since I put this in code format to tell the
+difference between the post and the letter, I'll put the link
+[here](https://www.lemkininstitute.com/statements-new-page/statement-on-the-genocidal-nature-of-the-gender-critical-movement%E2%80%99s-ideology-and-practice).
