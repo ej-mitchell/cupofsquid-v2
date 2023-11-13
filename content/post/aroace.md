@@ -124,3 +124,14 @@ Before you ask... yes I did just start reading _Pleasure Activism_. I imagine
 more thoughts will be brought to fruition over the coming days. Have all this
 time while isolating post-COVID exposure after all. 😑️
 
+---
+
+**End note**: I've gotten some questions about this and I wanted to clear it up
+here so others could also understand. I am aware of the difference between
+asexuality and not wanting to have sex. I am an ace-spectrum person who chooses
+to engage in sex when I feel it is right for me. I cannot speak for my friend,
+but I can say for myself that sexual attraction waxes and wanes for me, and with
+it comes a waxing and waning of desire to engage in sexual activity. This often
+coincides with personal changes of self and the need to address them. Celibacy,
+whether strictly or gently enforced within oneself, is not the same as
+experiencing asexuality, but they can exist together.
