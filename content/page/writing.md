@@ -19,5 +19,9 @@ I also have some [technical blog posts](https://thoughtbot.com/blog/authors/ej-m
 
 ## Awards
 
-[Special Mention in the EDITS-ARTS 2022 Competition](https://iiasa.ac.at/projects/energy-demand-changes-induced-by-technological-and-social-innovations-edits) [for poetry]
+- [Special Mention in the EDITS-ARTS 2022 Competition](https://iiasa.ac.at/projects/energy-demand-changes-induced-by-technological-and-social-innovations-edits) [for poetry]
+
+## Publications
+
+- [COMING SOON]: a chapter in a queer anthology. Stay tuned!
 

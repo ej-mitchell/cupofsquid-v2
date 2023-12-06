@@ -8,9 +8,14 @@ title = "Uses"
 +++
 
 
-In addition to being a developer, I am also an artist and a writer who dabbles in nature photography. My goal is to have a minimalist office environment with as low a carbon footprint as possible, finding things on the side of the road instead of buying new (for example).
+In addition to being a developer, I am also an artist and a writer who dabbles
+in nature photography. My goal is to have a minimalist office environment with
+as low a carbon footprint as possible, finding things on the side of the road
+instead of buying new (for example).
 
-I also value open-source software where I can manage it. I was diagnosed with ADHD in 2022, so I've been weighting functionality a bit more heavily lately to aid in keeping my brain on track.
+I also value open-source software where I can manage it. I was diagnosed with
+ADHD in 2022, so I've been weighting functionality a bit more heavily lately to
+aid in keeping my brain on track.
 
 Below is a list of how I've managed this balance so far.
 
@@ -18,19 +23,17 @@ Below is a list of how I've managed this balance so far.
 
 * Used ThinkPad T470 running Pop!_OS
 * Google Pixel 7 - unfortunately not with CalyxOS this time.
-* Movement seating - found on side of the road (kneeling rocking chair).
+* Movement seating - wobble stool
 * 3/4-sized dot notebooks - for jotting down things as they come to me, to get it out of my head.
 * Moleskin Weekly Academic Planner - has a blank, lined page for each week to hold todo items/notes.
 * Writing utensils - Pilot G-2 07 pens, Sharpie pens, or any thin ink/felt pen available on sale. Use colored pens to highlight important items.
-* [Bose QuietComfort 35 wireless headphones II](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black)
 
 ## Productivity
 
 ### Desktop/Development
 
-* **[Notion](https://www.notion.so) -** using this for recipes, tracking what I've read, and kanboards for large personal projects. _Currently searching for a less beefy alternative._
+* **[Notion](https://www.notion.so)** - using this for recipes, tracking what I've read, and kanboards for large personal projects. _Currently searching for a less beefy alternative._
 * **Terminal** - I used to use "alternative" terminal interfaces, but someone gave me [a hot tip](http://danluu.com/term-latency/). The system terminal on Pop!_OS is great paired with tmux.
-* **Thunderbird** - open-source email clients for my laptop.
 * **neoVim**/**VSCodium** - I use neoVim for most things (see dotfiles link below), but VSCodium has also been pretty solid when needed. Admittedly I have the Vim plugin for that, though. I'm so slow with a mouse. 🙃
 * **[Vivaldi](https://vivaldi.com)** - browser replacement for Chrome. It's Chromium based, though, with great privacy additions. I use this for testing applications.
 * **[Mozilla Firefox Developer Edition](https://www.mozilla.org/kab/firefox/developer/) ** - I also use this for testing applications, when needed. This is my preferred browser, but sometimes it gets slow.
