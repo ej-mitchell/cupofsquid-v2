@@ -56,16 +56,16 @@ My roommates didn't want me to die, but the larger theme of society is that
 people like me - we are a burden to the economy, so let's best get them killed
 off so we can move on like nothing's happened.
 
-We, as western civilization, cannot be reminded that we are not gods. That
-nature is what makes us mortal, that this disease is one of many coming our way
-because we denied that mortality to seek domination.
-
 I hate Trump as much as the next person and wish him to drop dead, but he was
 the only one that was able to admit this out loud to everyone during one of his
 many childish rants.
 
 Except maybe the government in Sweden joined him, which tried to go the "herd
 immunity" route early on in the pandemic.
+
+We, as western civilization, cannot be reminded that we are not gods. That
+nature is what makes us mortal, that this disease is one of many coming our way
+because we denied that mortality to seek domination.
 
 After I wrote the piece in my journal while my body went through cells of panic
 attacks - which have now become a permanent concern in my life if I so much as
