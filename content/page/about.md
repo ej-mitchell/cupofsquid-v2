@@ -8,20 +8,19 @@ title = "About me"
 +++
 
 
-Hello! 👋  My name is Eiven. I'm a transgender technologist and writer.
+Hello! 👋 Welcome to my site. I consider it a parking spot for unedited thoughts
+as I navigate with community through a rapidly changing world. I am an artist,
+writer, uncle to a dog and a human child, as well as an avid naturalist.
 
-[Reach out to me](mailto:hello@cupofsquid.com) if you want to collaborate on anything! Current projects are listed below.
-
-You can also view [some of my most recent technical experience](/page/technical-experience/).
-
-Do you like what you see here? Consider donating to me [on Ko-fi](https://ko-fi.com/eejum). ☺️
+[Reach out to me](mailto:hello@cupofsquid.com) if you want to collaborate on
+anything! Current projects are listed below.
 
 ### Now
 
-* Volunteering as a de-escalator and street medic in the community.
-* Exploring alternative community configurations online and offline.
-* Learning to forage sustainably and practicing degrowth
-* Writing a chapter for a queer anthology!
+* Learning to live off-grid
+* Moving across state lines to find land for the above venture
+* Just finished my first vending opportunity as an artist
+* Slowly transitioning to living as a writer full time
 
 ### Social Media
 
